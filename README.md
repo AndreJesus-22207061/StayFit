@@ -9,7 +9,7 @@ Criadores: André Jesus / Tomás Nave
 
 Objetivo:
 
-O objetivo deste projeto é criar uma idea de negocio que envolva tecnologia utilizando os conhecimentos adquiridos na disciplina
+O objetivo deste projeto é criar uma ideia de negocio que envolva tecnologia utilizando os conhecimentos adquiridos na disciplina
 
 A nossa ideia consiste em desenvolver uma aplicação para smartphone, de habit tracking que tem como objetivo monitorizar e ajudar a ganhar certos hábitos mais relacionados à atividade física.
 
